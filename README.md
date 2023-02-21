@@ -1,6 +1,6 @@
 #### <h1 align="center">Hi there 👋, I'm Ana</h1>
 
-I'm currently studying **Software Development** at [42 Barcelona](https://www.42barcelona.com/es) (top 10 of 2022 Class).
+I'm currently studying **Software Development** at [42 Barcelona](https://www.42barcelona.com/es) (top 10 of 2022 class).
 
 ## Languages:
 <img src="https://skillicons.dev/icons?i=c,cpp">
