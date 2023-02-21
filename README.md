@@ -3,7 +3,7 @@
 I'm currently studying **Software Development** at [42 Barcelona](https://www.42barcelona.com/es) (top 10 of 2022 class)
 
 ## Languages:
-<img src="https://skillicons.dev/icons?i=c,cpp">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css">
 
 ## Tools:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,aws">
