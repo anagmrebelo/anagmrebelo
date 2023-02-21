@@ -1,16 +1,19 @@
-### Hi there 👋
+#### <h1 align="center">Hi there 👋, I'm Ana</h1>
 
-<!--
-**anagmrebelo/anagmrebelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying **Software Development** at [42 Barcelona](https://www.42barcelona.com/es) (top 10 of 2022 Class).
 
-Here are some ideas to get you started:
+## Languages:
+<img src="https://skillicons.dev/icons?i=c,cpp">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools:
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws">
+
+## How to reach me: 
+  - Via email: anagmrebelo@hotmail.com
+  - Via LinkedIn: [Ana Rebêlo](https://www.linkedin.com/in/ana-mota-rebelo/)
+ 
+## General stats:  
+ <div align="center">
+    <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagmrebelo&langs_count=3&theme=dracula"/>
+    <img height="192px" src="https://github-readme-stats.vercel.app/api username=anagmrebelo&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+</div>
