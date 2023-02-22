@@ -15,5 +15,5 @@ I'm currently studying **Software Development** at [42 Barcelona](https://www.42
 ## General stats:  
  <div align="left">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagmrebelo&langs_count=3&theme=dracula"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=anagmrebelo&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=anagmrebelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
