@@ -6,7 +6,7 @@ I'm currently studying **Software Development** at [42 Barcelona](https://www.42
 <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js">
 
 ## Tools:
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws">
+<img src="https://skillicons.dev/icons?i=git,github,aws,docker">
 
 ## How to reach me: 
   - Via email: anagmrebelo@hotmail.com
